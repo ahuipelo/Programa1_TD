@@ -15,4 +15,10 @@ r <- 2
 A <- pi * r^2
 ```
 
+# Área cuadrado
+```{r}
+lado <- 3
+areacuadrado <- lado^2
+```
+
 
